@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 
 // Define the file path where symbol data is stored
-const symbolFilePath = path.join(__dirname, '..', 'Json', 'symbol.json');
+const symbolFilePath = path.join(__dirname, '..', 'json', 'symbol.json');
 
 // Function to read symbol data from the JSON file
 export function readSymbolData(): any[] {

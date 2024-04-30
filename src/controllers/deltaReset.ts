@@ -3,7 +3,7 @@ import * as fs from 'fs';
 import path from 'path';
 
 
-const jsonFolderPath = path.join(__dirname, '..', 'Json');
+const jsonFolderPath = path.join(__dirname, '..', 'json');
 const symbolFilePath = path.join(jsonFolderPath, 'symbol.json');
 
 export async function resetCumulativeDelta(req: Request, res: Response) {
