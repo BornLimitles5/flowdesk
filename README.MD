@@ -7,8 +7,8 @@
 Clone the repo
 
 ```sh
-- git clone https://github.com/BornLimitles5/Flowdesk.git
-- cd Project-Name
+- git clone https://github.com/BornLimitles5/flowdesk.git
+- cd flowdesk
 ```
 
 ## Build the project
